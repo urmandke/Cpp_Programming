@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+*.exe
+*.project
+*.workspace
+build.sh
+CMakeFiles/*
